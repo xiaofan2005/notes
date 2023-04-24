@@ -120,3 +120,5 @@
 ### (过去)完成时
 
 前有最高级/序数词；表过去的过去含义
+#example
+While I understand the viewpoint that some people may hold regarding the benefits of social media for maintaining social connections, I must respectfully disagree. It's true that social media platforms can be useful tools for staying in touch with friends and family who live far away or for reconnecting with old acquaintances. However, I believe that the negative consequences of social media use far outweigh any potential benefits. Studies have shown that excessive social media use can contribute to mental health problems such as anxiety and depression, as well as addiction and sleep disturbance. Additionally, the spread of misinformation and cyberbullying on social media can cause harm to individuals and society as a whole. Therefore, I believe that we should be cautious about relying too heavily on social media for our social interactions and prioritize more meaningful, in-person connections.
